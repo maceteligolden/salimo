@@ -1443,7 +1443,7 @@ a:hover {
     display: inline-block;
 }
 .logo a {
-    width: 150px;
+    width: 32px;
     display: block;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -1822,8 +1822,10 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 }
 .about .about-right-side img {
     position: relative;
-	    display: inline-block;
+	  display: inline-block;
 		border-radius:4px;
+    height: auto;
+    max-height: 450px;
 }
 .about .about-right-side:before {
 	display: inline-block;
@@ -1883,17 +1885,22 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 
 .projectmanager {
     color: #fff;
-    background-image: url("http://via.placeholder.com/1600x650");
+    background-image: url("../img/team/projectmanager-cover.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto 110%;
+    background-size: cover;
 }
 .projectmanager .section-overlay {
     padding: 120px 0 100px;
 }
 .projectmanagerpicture {
+    display: block;
+    max-width: 100%;
+    height: 100%; /* keeps aspect ratio */
     border-radius: 50%;
+    object-fit: cover; /* ensures the image fills the container without stretching */
+    object-position: center; /* centers the image within the circle */
 }
 .projectmanager h1 {
     margin-bottom: 20px;

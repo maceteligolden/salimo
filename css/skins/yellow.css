@@ -1,5 +1,5 @@
 /* =================================================================== */
-/* Yellow #ffb400
+/* Yellow #009245
 ====================================================================== */
 h1 > span,
 .projectmanager h3,
@@ -33,13 +33,13 @@ body.dark .nav-menu-icon.active a, body.dark .nav-menu-icon a.active, body.dark 
 .btn-wrapper a,
 .latest-post .post-title a:hover,
 body.dark .latest-post .post-title a:hover {
-    color: #ffb400;
+    color: #009245;
 }
 .banner .breadcrumb>li a:hover,
 .custom-colorRotatingWords,
 .team .social-icons ul.social li a:hover,
 .team .social-icons ul.social li a:hover:before {
-	color: #ffb400 !important;
+	color: #009245 !important;
 }
 .latest-post .post-date,
 .custom-button,
@@ -65,54 +65,54 @@ body.double-diagonal .logos::before,
 .team-member:hover .team-member-caption,
 .btn-wrapper a:hover,
 .widget-tags ul > li a:hover  {
-    background-color: #ffb400;
+    background-color: #009245;
 }
 .widget-tags ul > li a:hover {
-	border:1px solid #ffb400;
+	border:1px solid #009245;
 }
 .about-right-side .full-image-container.hovered:before  {
-	border-left: 5px solid #ffb400;
+	border-left: 5px solid #009245;
 }
 .projectmanager blockquote,
 #quote-carousel .carousel-indicators .active {
-    border-color: #ffb400;
+    border-color: #009245;
 }
 .blog-page ul.pagination li.active a, body.dark.blog-page ul.pagination li.active a  {
-	border-color: #ffb400;
+	border-color: #009245;
 }
 .projectmanagerpicture {
-    border: 12px solid #ffb400;
+    border: 12px solid #009245;
 }
 .portfolio .nav-pills li {
-    border: 2px solid #ffb400;
+    border: 2px solid #009245;
 }
 #back-top a {
-    border: 2px solid #ffb400;
+    border: 2px solid #009245;
 }
 .blog-page .banner .content .top-text hr {
-	border-top:5px solid #ffb400;
+	border-top:5px solid #009245;
 }
 .portfolio .caption h3 {
-	border-left: 3px solid #ffb400;
+	border-left: 3px solid #009245;
 }
 .team-member-caption {
-	border-top: 3px solid #ffb400;
+	border-top: 3px solid #009245;
 }
 .social-icons ul.social-icons-team li a {
-	border: 2px solid #ffb400;
+	border: 2px solid #009245;
 }
 .social-icons ul li a{
-    border: 3px solid #ffb400;
+    border: 3px solid #009245;
 }
 .footer .social-icons ul li a {
-    border: 2px solid #ffb400;
+    border: 2px solid #009245;
 }
 .footer {
-    border-top: 2px solid #ffb400;
+    border-top: 2px solid #009245;
 }
 .social-icons ul.social-icons-team li a,
 .about .about-right-side:before {
-    border: 2px solid #ffb400;
+    border: 2px solid #009245;
 }
 .preloader .loader {
   background-image: url(../../img/preloaders/preloader-yellow-light.svg);
@@ -125,18 +125,18 @@ body.dark .preloader .loader {
   background-position: 50% 50%;
 }
 .btn-wrapper a {
-	border: 5px solid #ffb400;
+	border: 5px solid #009245;
 }
 .rtl-version .about-right-side .full-image-container.hovered:before {
-	border-right: 5px solid #ffb400;
+	border-right: 5px solid #009245;
 	border-left:0;
 }
 .rtl-version .projectmanager blockquote {
 	border-left: none;
-    border-right: 5px solid #ffb400;
+    border-right: 5px solid #009245;
 }
 .rtl-version .portfolio .caption h3 {
-	border-right: 3px solid #ffb400;
+	border-right: 3px solid #009245;
 }
 body.double-diagonal .about.safari::before {
 	background-image: url(../../img/safari-separators/separator-yellow.png);
@@ -145,10 +145,10 @@ body.double-diagonal .about.safari::before {
 }
 @media (max-width:767px){
 	.social-icons ul li a {
-		border: 2px solid #ffb400;
+		border: 2px solid #009245;
 	}
 	.about-right-side .full-image-container.hovered:before  {
-		border-top: 5px solid #ffb400;
+		border-top: 5px solid #009245;
 		border-left:none;
 	}
 	.rtl-version .about-right-side .full-image-container.hovered:before {
@@ -157,7 +157,7 @@ body.double-diagonal .about.safari::before {
 }
 @media (max-width:576px){
 	.about ul.nav.nav-tabs li a.active {
-		background :#ffb400;
+		background :#009245;
 		color:#fff;
 	}
 }
