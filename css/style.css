@@ -3023,7 +3023,7 @@ body.blog-page article .comments-form .custom-button:before {
 
 .gmap_container {
     overflow: hidden;
-    height: 450px;
+    height: 150px;
     width: 100%;
 }
 .contact #gmap_canvas {
